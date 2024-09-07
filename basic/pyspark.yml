@@ -4,4 +4,4 @@ services:
     ports:
     - 8888:8888
     volumes:
-    - ${HOME}/pyspark/basic/work:/home/jovyan/work
+    - ${HOME}/cs/pyspark-study/basic/work:/home/jovyan/work
